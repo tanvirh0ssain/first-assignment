@@ -1,0 +1,260 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    width: 1440px;
+    margin: 0px 0px;
+
+}
+
+
+/* header part start  */
+
+header{
+   
+    height: 669px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    
+    background-image: url(images/donation4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+
+
+}
+
+.heading{
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0px;
+    padding: 174px 307px 175px 309px;
+
+}
+
+h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+}
+    
+    
+
+.link{
+    text-decoration: dimgray;
+    background: #FF5959;
+    padding: 07px 10px;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: 560;
+    margin-top: 19px;    
+}
+
+/* header part end */
+
+
+/* first part start */
+   
+.donate{
+    margin-top: 130px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+h4{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-bottom: 20px;
+   
+}
+
+/* donation par start */
+
+.display-1{
+    display: flex;
+    margin-bottom: 0px;
+    margin-left: 338px;
+    
+}
+
+.card{
+    box-shadow:2px 2px 2px 2px rgba(128, 128, 128, 0.075);
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    padding: 43px 25px 44px 24px;
+    color: #707070;
+    margin-right: 22px;
+
+}
+#highlight{
+   color: #FF5959;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.amount{
+    
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 60px 337px 30px 338px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #DADADA;
+    text-align: center;
+    color: #B3B3B3;
+}
+
+
+
+
+    /*donate-plan*/
+ .donate-plan{
+     text-align: center;
+     margin-bottom: 50px;
+ }
+
+
+/* second part start */
+
+
+
+.display-2{
+    display: flex;
+    margin-bottom: 0px;
+    margin-left: 157px;
+}
+
+.second-part-font{
+    text-align: center;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 55px;
+    margin-bottom: 6%;
+}
+
+
+.cards{
+    width: 334px;
+    height: 292px;
+    padding-top: 60px;
+    padding-left: 26px;
+    margin-right: 24px;
+    margin-bottom: 100px;
+    box-shadow:2px 2px 8px gray;
+    border-radius: 15px 15px 15px 15px;
+
+ }
+ 
+ #card-1{
+    background-color: #4F9DA61A;
+
+ }
+ #card-2{
+    background: #FF59591A;
+
+ }
+
+ #card-3{
+    background: #FFF4D6;
+
+ }
+ .cards img{
+    width: 53px;
+    height: 53px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+   /* bonus part add */
+
+   .bonus-part-font{
+    text-align: center;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 55px;
+    margin-bottom: 6%;
+    }
+    
+    .brown{
+        color: orange;
+    }
+   .contact-form{
+    width: 340px;
+    height: 300px;
+    margin: -20px 500px 20px 480px;
+    padding-top: 20px;
+    padding-left: 36px;
+    box-shadow:2px 2px 8px gray;
+    border-radius: 15px 15px 15px 15px;
+    background: lightslategray;
+    
+}
+
+
+
+
+/* update part */
+.update{
+    display: flex;
+    width: 424px;
+    height: 50px;
+    text-align: center;
+    margin: 2px 315px 110px 316px;
+    padding: 76px 188px ;
+    background-color: #FFF4D6;
+}
+
+.email{
+    height: 45px;
+    width: 255px;
+    padding-left: 20px;
+    margin-right: 0px;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+}
+.link-2{
+    text-decoration: dimgray;
+    background: #FF5959;
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: 560;
+    padding: 14px 43px 14px 43px;
+}
+
+
+/* footer part start */
+
+footer{
+    text-align: center;
+    padding-top: 43px;
+    padding-bottom: 43px;
+    background-color: #0B0D17;;
+}
+
+h3{
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;                      
+    letter-spacing: 0.5px;
+    color: #FF5959;
+
+}
+small{
+    color: #D9DBE1;
+  
+}
+
+
+/* end of the css */
