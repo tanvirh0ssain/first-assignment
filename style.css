@@ -15,14 +15,11 @@ header{
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
-
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
     
     background-image: url(images/donation4.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
-
 
 }
 
@@ -33,6 +30,7 @@ header{
     padding: 174px 307px 175px 309px;
 
 }
+
 
 h1{
     font-family: 'Inter';
